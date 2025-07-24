@@ -1,4 +1,4 @@
-# 👋 Oii, eu sou o Geison!
+# 👋 Oi, eu sou o Geison!
 
 Sou desenvolvedor com mais de 9 anos de experiência criando soluções robustas e escaláveis em **Java** e **Android**. Atuo tanto no **backend com Spring Boot** quanto no **mobile com Kotlin**, sempre buscando entregar código limpo, performático e com boas práticas.
 
